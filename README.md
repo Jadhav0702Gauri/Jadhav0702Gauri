@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jadhav0702Gauri&label=Profile%20views&color=0e75b6&style=flat" alt="Jadhav0702Gauri" /> </p>
 
-- 🌱 I’m currently learning **Ml and NLP**
+- 🌱 I’m currently learning **ML and NLP**
 
 - 👯 I’m looking to collaborate on **projects within the realm of data-related work**
 
