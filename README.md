@@ -2,8 +2,6 @@
 <h3 align="center">📊Data Enthusiast :Transforming Raw Data into Insights 🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jadhav0702Gauri&label=Profile%20views&color=0e75b6&style=flat" alt="Jadhav0702Gauri" /> </p>
 
-<img align="right" alt="Data Analyst" width="400" src="[https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif](https://assets-global.website-files.com/59e16042ec229e00016d3a66/6317db6be014a127a8479a84_blog-hero%20(21).gif)">
-
 - 🌱 I’m currently learning **ML and NLP**
 
 - 👯 I’m looking to collaborate on **projects within the realm of data-related work**
